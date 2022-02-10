@@ -41,8 +41,8 @@ experience:
     company_url: 'http://islamabad.comsats.edu.pk/'
     company_logo: 
     location: Islamabad, Pakistan
-    date_start: March 2023
-    date_end: September 2020
+    date_start: Mar 2023
+    date_end: Sep 2020
     description: |2-
         Responsibilities include:
         
