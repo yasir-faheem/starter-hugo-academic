@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Associate Professor
+    company: NUST-SEECS
+    company_url: 'https://seecs.nust.edu.pk/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Islamabad, Pakistan
+    date_start: 'October, 2020'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teaching: UG (Mobile Application Development, Data Structures, Algorithm Analysis), PG (Game Theory, IoTs)
+        * Research: IoTs, cloud computing, MANETs, cyber physical systems
+        * Services: Curriculum design, project evaluations and misc.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Assistant Professor of Computer Science
+    company: COMSATS University Islamabad
+    company_url: 'http://islamabad.comsats.edu.pk/'
+    company_logo: 
+    location: Islamabad, Pakistan
+    date_start: 'March 2013'
+    date_end: 'September 2020'
+    description: |2-
+        Responsibilities include:
+        
+        * Teaching: PG (Computer Forensics, Applied Game Theory, Wireless Networks) UG (Data Structures & Algorithms, Computer Networks)
+        * Research: Supervised 13 MS Thesis, published 14 articles in Q1 and Q2 ranked journals.
+        * Services: UG course coordinator for ABET accreditation, UG projects and PG theses evaluations, and misc.
 
 design:
   columns: '2'
