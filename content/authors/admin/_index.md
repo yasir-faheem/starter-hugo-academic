@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yasir Faheem
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: NUST School of Electrical Engineering and Computer Science
+  url: https://seecs.nust.edu.pk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- IoTs
+- MANETS ( VANETs, DTNs, WSNs)
+- Cloud computing
+- Applications of algorithmic game theory
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Networks & Information Technologies
+    institution: University Paris Nord, France
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MS in Network and Distributed Systems 
+    institution: University Nice Sophia Antipolics, France
     year: 2008
+  - course: BS in Computer Science
+    institution: NUCES-FAST
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
