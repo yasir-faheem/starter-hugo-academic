@@ -27,7 +27,7 @@ experience:
     company_url: 'https://seecs.nust.edu.pk/'
     company_logo: org-gc
     location: Islamabad, Pakistan
-    date_start: 'October, 2020'
+    date_start: '10-01-2020'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,8 +41,8 @@ experience:
     company_url: 'http://islamabad.comsats.edu.pk/'
     company_logo: 
     location: Islamabad, Pakistan
-    date_start: 'March 2013'
-    date_end: 'September 2020'
+    date_start: '03-01-2013'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
